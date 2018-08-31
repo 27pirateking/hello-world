@@ -10,4 +10,6 @@ Webscraping medical data(medindia.net) using scrapy and python based app for vie
 
 Python based movie recomender (On Imdb movie Dataset)
 
+Fast Neural Art style transfer Implementation
+
 :/
